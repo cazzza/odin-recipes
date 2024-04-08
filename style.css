@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+ul {
+    list-style-type: disc;
+    border-style: solid;
+    
+}
+
+h1 {
+    padding-bottom: 5px;
+    text-decoration: black underline;
+}
+
+h2 {
+    text-align: right;
+}
+
