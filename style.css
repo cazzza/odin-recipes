@@ -7,11 +7,9 @@ ul {
     border-style: solid;
 }
 
-#picture {
+img {
     display: block;
 }
-
-
 
 #heading {
     display: flex;
